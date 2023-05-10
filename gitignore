@@ -1,0 +1,6 @@
+# 
+.obsidian/workspace.json
+
+# Don't commit plugin code, just settings
+.obsidian/plugins/*/*
+!.obsidian/plugins/*/data.json
